@@ -1,0 +1,18 @@
+/*  https://github.com/XVimProject/XVim  location of the XCode/Vim plug-in.
+// --------------------------------------------------------------------------------------------------------
+// Monday, 2015-Jan-05
+//
+// W1.D1.01[x] Create your MVC groups - Create groups: ModelLayer, ViewLayer, ControllerLayer
+// W1.D1.02[x] Create your Tweet class with an initializer that takes a Dictionary
+//             in as a parameter                                                            - 'Tweet.swift'
+// W1.D1.03[x] In addition to the text property, add a property to hold the username
+//             of the person who tweeted the tweet
+// W1.D1.04[x] Drag the tweet.json file into your Xcode project
+// W1.D1.05[x] Parse the json file into tweet objects
+// W1.D1.06[ ] In addition to text, pull out the username from the json for each
+//             tweet and use that property you added to hold it
+// W1.D1.07[x] Display those tweet objects in the table view
+// W1.D1.08[ ] Create a custom table view cell class with your own custom label
+//             and image view
+// --------------------------------------------------------------------------------------------------------
+*/
